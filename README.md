@@ -40,7 +40,7 @@
 
 ## 基础包
 
-引入`netease` 或 `netease/base`
+在[如何配置](#如何配置)中`extends`属性值写为`netease` 或 `netease/base`
 
 只包含`js语法 + prettier样式检查 + prettier样式修复`
 其中prettier配置写死成
@@ -59,6 +59,6 @@
 
 ## React包
 
-引入`netease/react` 
+在[如何配置](#如何配置)中`extends`属性值写为`netease/react`
 
 包含`基础包 + React语法检查 + React访问性检查`
