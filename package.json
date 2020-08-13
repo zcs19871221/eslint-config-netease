@@ -5,6 +5,9 @@
   "main": "base.js",
   "author": "netease",
   "license": "MIT",
+  "scripts": {
+    "lint": "eslint"
+  },
   "dependencies": {
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^4.3.0",
